@@ -1,1 +1,1 @@
-# hupeng-repository
+# eureka-services
